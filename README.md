@@ -1,1 +1,4 @@
-# cb_gsmartcontrol
+# gsmartcontrol
+
+TODO: Enter the cookbook description here.
+
